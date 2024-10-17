@@ -1,0 +1,6 @@
+name: 'Naara-FFA'
+version: '1.0.0'
+author: Malgret
+main: fr.naaranetwork.ffa.FFA
+commands:
+  spawn:
